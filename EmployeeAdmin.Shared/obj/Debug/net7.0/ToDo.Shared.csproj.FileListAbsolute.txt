@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Nati-Ti\ToDo\ToDo.Shared\bin\Debug\net7.0\ToDo.Shared.deps.json
+C:\Users\user\source\repos\Nati-Ti\ToDo\ToDo.Shared\bin\Debug\net7.0\ToDo.Shared.runtimeconfig.json
+C:\Users\user\source\repos\Nati-Ti\ToDo\ToDo.Shared\bin\Debug\net7.0\ToDo.Shared.dll
+C:\Users\user\source\repos\Nati-Ti\ToDo\ToDo.Shared\bin\Debug\net7.0\ToDo.Shared.pdb
+C:\Users\user\source\repos\Nati-Ti\ToDo\ToDo.Shared\obj\Debug\net7.0\ToDo.Shared.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Nati-Ti\ToDo\ToDo.Shared\obj\Debug\net7.0\ToDo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Nati-Ti\ToDo\ToDo.Shared\obj\Debug\net7.0\ToDo.Shared.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nati-Ti\ToDo\ToDo.Shared\obj\Debug\net7.0\ToDo.Shared.AssemblyInfo.cs
+C:\Users\user\source\repos\Nati-Ti\ToDo\ToDo.Shared\obj\Debug\net7.0\ToDo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nati-Ti\ToDo\ToDo.Shared\obj\Debug\net7.0\ToDo.Shared.dll
+C:\Users\user\source\repos\Nati-Ti\ToDo\ToDo.Shared\obj\Debug\net7.0\refint\ToDo.Shared.dll
+C:\Users\user\source\repos\Nati-Ti\ToDo\ToDo.Shared\obj\Debug\net7.0\ToDo.Shared.pdb
+C:\Users\user\source\repos\Nati-Ti\ToDo\ToDo.Shared\obj\Debug\net7.0\ToDo.Shared.genruntimeconfig.cache
+C:\Users\user\source\repos\Nati-Ti\ToDo\ToDo.Shared\obj\Debug\net7.0\ref\ToDo.Shared.dll

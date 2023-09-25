@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Nati-Ti\EmployeeAdministration\EmployeeAdministration\EmployeeAdmin.Domain\bin\Debug\net7.0\EmployeeAdmin.Domain.deps.json
+C:\Users\user\source\repos\Nati-Ti\EmployeeAdministration\EmployeeAdministration\EmployeeAdmin.Domain\bin\Debug\net7.0\EmployeeAdmin.Domain.dll
+C:\Users\user\source\repos\Nati-Ti\EmployeeAdministration\EmployeeAdministration\EmployeeAdmin.Domain\bin\Debug\net7.0\EmployeeAdmin.Domain.pdb
+C:\Users\user\source\repos\Nati-Ti\EmployeeAdministration\EmployeeAdministration\EmployeeAdmin.Domain\obj\Debug\net7.0\EmployeeAdmin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Nati-Ti\EmployeeAdministration\EmployeeAdministration\EmployeeAdmin.Domain\obj\Debug\net7.0\EmployeeAdmin.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nati-Ti\EmployeeAdministration\EmployeeAdministration\EmployeeAdmin.Domain\obj\Debug\net7.0\EmployeeAdmin.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\Nati-Ti\EmployeeAdministration\EmployeeAdministration\EmployeeAdmin.Domain\obj\Debug\net7.0\EmployeeAdmin.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nati-Ti\EmployeeAdministration\EmployeeAdministration\EmployeeAdmin.Domain\obj\Debug\net7.0\EmployeeAdmin.Domain.dll
+C:\Users\user\source\repos\Nati-Ti\EmployeeAdministration\EmployeeAdministration\EmployeeAdmin.Domain\obj\Debug\net7.0\refint\EmployeeAdmin.Domain.dll
+C:\Users\user\source\repos\Nati-Ti\EmployeeAdministration\EmployeeAdministration\EmployeeAdmin.Domain\obj\Debug\net7.0\EmployeeAdmin.Domain.pdb
+C:\Users\user\source\repos\Nati-Ti\EmployeeAdministration\EmployeeAdministration\EmployeeAdmin.Domain\obj\Debug\net7.0\ref\EmployeeAdmin.Domain.dll
